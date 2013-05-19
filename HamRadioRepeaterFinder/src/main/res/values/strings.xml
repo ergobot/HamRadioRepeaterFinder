@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Ham Radio Repeater Finder
+    </string>
+    <string name="title_repeater_detail" >Repeater Detail
+    </string>
+
+</resources>
